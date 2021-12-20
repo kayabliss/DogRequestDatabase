@@ -4,7 +4,7 @@
 Simple overview of use/purpose.
 
 ## Demo
-<img src="https://github.com/kayabliss/DogRequest/blob/master/dogRequest.gif" width="250" height="350"/>
+<img src ="https://github.com/kayabliss/DogRequestDatabase/blob/master/DogHistoryDatabase/dogDatabaseSample.gif" width="250" height="350"/>
 
 
 ## Description
