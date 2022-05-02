@@ -1,6 +1,6 @@
 # DogHistoryDatabase
-## Connect, Display Image to internet- Retrofit2, Moshi & Coil
-## Create a database using room
+-Connect, Display Image to internet- Retrofit2, Moshi & Coil
+-Create a database using room
 
 
 Simple overview of use/purpose.
