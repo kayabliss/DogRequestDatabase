@@ -15,9 +15,11 @@ The purpose of this project was to demonstrate understanding of how to connect t
 
 
 ### Dependencies
-
-* coil library
-* retrofit
+* Live Data
+* View Model
+* Room Database
+* Coil library
+* Retrofit
 * Moshi
 
 
