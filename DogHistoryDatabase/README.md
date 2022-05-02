@@ -3,7 +3,7 @@
 -Create a database using room
 
 
-Simple overview of use/purpose.
+#Simple overview of use/purpose.
 
 ## Demo
 <img src ="https://github.com/kayabliss/DogRequestDatabase/blob/master/DogHistoryDatabase/dogDatabaseSample.gif" width="250" height="350"/>
